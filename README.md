@@ -11,7 +11,7 @@
 * [Thank you](#thank-you)
 
 #### Introduction
-LegionCore is a **MMORPG** framework for WOW Legion *(Build 26972)*. This core is based off of the UWOW core leak of 2020. Which was derived from an old version of [TrinityCore](https://github.com/TrinityCore/TrinityCore). LegionCore is completely opensource and is developed by the community. To submit a pull request please follow this template [here](submitting-fixes).
+LegionCore is a **MMORPG** framework for WOW Legion *(Build 26365)*. This core is based off of the UWOW core leak of 2020. Which was derived from an old version of [TrinityCore](https://github.com/TrinityCore/TrinityCore). LegionCore is completely opensource and is developed by the community. To submit a pull request please follow this template [here](submitting-fixes).
 
 If you want you can join the community discord: [here](https://discord.gg/uaP2aeJ7sj).
 
@@ -35,7 +35,7 @@ This core has been optimized for DBC/vmap/map/mmaps files from UWoW and are not 
 ***⚠️ We will not provide further assistance if those files are not available anymore.***
 
 Some files from the above data files are wrong.
-Use the [TrinityCore 7.3.5 tools](https://github.com/TrinityCore/TrinityCore/releases/tag/7.3.5%2F26972) to generate the following files:
+Use the [TrinityCore 7.3.5 tools](https://github.com/TrinityCore/TrinityCore/releases/tag/7.3.5%2F26365) to generate the following files:
 > gt/xp.txt
 
 Replace the listed above file(s) with the one(s) you generated yourself.

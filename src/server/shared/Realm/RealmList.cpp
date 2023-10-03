@@ -196,7 +196,7 @@ void RealmList::UpdateRealms(boost::system::error_code const& error)
                 uint8 timezone = fields[8].GetUInt8();
                 uint8 allowedSecurityLevel = fields[9].GetUInt8();
                 float pop = fields[10].GetFloat();
-                uint32 build = sConfigMgr->GetIntDefault("Game.Build.Version", 26972);
+                uint32 build = sConfigMgr->GetIntDefault("Game.Build.Version", 26365);
                 uint8 region = fields[12].GetUInt8();
                 uint8 battlegroup = fields[13].GetUInt8();
 

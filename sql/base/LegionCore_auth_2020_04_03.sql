@@ -483,7 +483,7 @@ CREATE TABLE `realmlist` (
   `timezone` tinyint(3) unsigned NOT NULL DEFAULT '1',
   `allowedSecurityLevel` tinyint(3) unsigned NOT NULL DEFAULT '0',
   `population` float unsigned NOT NULL DEFAULT '0',
-  `gamebuild` int(10) unsigned NOT NULL DEFAULT '26972',
+  `gamebuild` int(10) unsigned NOT NULL DEFAULT '26365',
   `Region` tinyint(3) unsigned NOT NULL DEFAULT '2',
   `Battlegroup` tinyint(3) unsigned NOT NULL DEFAULT '1',
   `localAddress` varchar(255) NOT NULL DEFAULT '127.0.0.1',
@@ -496,7 +496,7 @@ CREATE TABLE `realmlist` (
 /*Data for the table `realmlist` */
 
 insert  into `realmlist`(`id`,`name`,`address`,`port`,`gamePort`,`portCount`,`icon`,`flag`,`timezone`,`allowedSecurityLevel`,`population`,`gamebuild`,`Region`,`Battlegroup`,`localAddress`,`localSubnetMask`) values 
-(1,'LegionCore','127.0.0.1',8085,8086,1,0,2,1,0,0,26972,2,1,'127.0.0.1','255.255.255.0');
+(1,'LegionCore','127.0.0.1',8085,8086,1,0,2,1,0,0,26365,2,1,'127.0.0.1','255.255.255.0');
 
 /*Table structure for table `store_categories` */
 

@@ -15,7 +15,7 @@
 #   Available builds: 26124, 26365, 26654, 26822, 26899, 26972
 #            Default: 26124
 
-Game.Build.Version = 26972
+Game.Build.Version = 26365
 
 #
 #    Game.Patch

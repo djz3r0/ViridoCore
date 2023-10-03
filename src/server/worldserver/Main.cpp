@@ -465,7 +465,7 @@ bool LoadRealmInfo()
     realm.PopulationLevel = fields[10].GetFloat();
     realm.Id.Region = fields[12].GetUInt8();
     realm.Id.Site = fields[13].GetUInt8();
-    realm.Build = sConfigMgr->GetIntDefault("Game.Build.Version", 26972);
+    realm.Build = sConfigMgr->GetIntDefault("Game.Build.Version", 26365);
     return true;
 }
 
